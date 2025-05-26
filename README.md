@@ -1,4 +1,4 @@
-# Vehicle Safety Detection Pipeline with AWS
+# Vehicle Safety Detection Pipeline with AWS Lambda
 
 This repository contains the implementation of a vehicle safety detection pipeline using AWS services to detect pedestrians in vehicle camera images, process them with a computer vision model, and store results in a database. This project was developed as part of my preparation for a internship interview, aligning with the role's focus on data science, AI, computer vision, and cloud optimization.
 
