@@ -10,7 +10,7 @@ This repository contains the implementation of a vehicle safety detection pipeli
 
 ## System Architecture
 
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](test/images/architectur.jpg)
 
 - **Amazon S3**: Stores uploaded vehicle camera images, triggering the pipeline.
 - **AWS Lambda Layer**: 
